@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @henry1599 ( English : Henry Lee, Vietnamese : Lê Trung Hiếu )
+- 👋 Hi, I’m @henry1599 ( English : Henry Lee, Vietnamese : Lê Trung Hiếu , Chinese Mandarin: 黎忠孝)
 - 👀 I’m interested in game development
-- 🌱 I’m currently learning Computer Science in a tech University in HCMC ( Ho Chi Minh city University of Technology )
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently a Unity developer and an indie game developer
 
 <!---
 henry1599/henry1599 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
